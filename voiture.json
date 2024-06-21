@@ -1,0 +1,121 @@
+[
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2022,
+    "transmission": "Automatic",
+    "fuelType": "Gasoline",
+    "mileage": 32,
+    "price": 28000,
+    "sales": 250,
+    "country": "USA",
+    "instock": true
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2022,
+    "transmission": "Automatic",
+    "fuelType": "Gasoline",
+    "mileage": 34,
+    "price": 24000,
+    "sales": 200,
+    "country": "USA",
+    "instock": true
+  },
+  {
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2022,
+    "transmission": "Automatic",
+    "fuelType": "Gasoline",
+    "mileage": 24,
+    "price": 38000,
+    "sales": 300,
+    "country": "USA",
+    "instock": true
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "year": 2022,
+    "transmission": "Automatic",
+    "fuelType": "Gasoline",
+    "mileage": 28,
+    "price": 29000,
+    "sales": 180,
+    "country": "USA",
+    "instock": true
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2022,
+    "transmission": "Automatic",
+    "fuelType": "Gasoline",
+    "mileage": 30,
+    "price": 26000,
+    "sales": 220,
+    "country": "USA"
+  },
+  {
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2022,
+    "transmission": "Automatic",
+    "fuelType": "Electric",
+    "mileage": 120,
+    "price": 45000,
+    "sales": 150,
+    "country": "USA",
+    "instock": true
+  },
+  {
+    "make": "BMW",
+    "model": "3 Series",
+    "year": 2022,
+    "transmission": "Automatic",
+    "fuelType": "Gasoline",
+    "mileage": 26,
+    "price": 42000,
+    "sales": 120,
+    "country": "USA",
+    "instock": true
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 2022,
+    "transmission": "Automatic",
+    "fuelType": "Gasoline",
+    "mileage": 28,
+    "price": 55000,
+    "sales": 90,
+    "country": "USA",
+    "instock": true
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": 2022,
+    "transmission": "Automatic",
+    "fuelType": "Gasoline",
+    "mileage": 30,
+    "price": 41000,
+    "sales": 110,
+    "country": "USA",
+    "instock": true
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": 2022,
+    "transmission": "Automatic",
+    "fuelType": "Gasoline",
+    "mileage": 32,
+    "price": 24000,
+    "sales": 190,
+    "country": "USA",
+    "instock": true
+  }
+]
